@@ -42,7 +42,36 @@ with sticky prices and a government issuing nominal and real state-uncontingent 
 
 ## Working Papers
 
+* **[Optimal Fiscal Policy with Endogenous Disaster Risk: How to Finance Defense Spending?](/files/WorkingPaper_war.pdf)**. 
+  With [Alessandro T. Villa](https://www.alessandrotenzinvilla.com/). 
+<details>
+  <summary>Abstract</summary>
+<p>  
+How should optimal policy manage disaster risk? We study an optimal fiscal policy problem with defense capital that both deters war and insures against wartime spending needs. Calibrating the war-risk channel with the Geopolitical Risk Index, we show analytically and quantitatively that optimal defense financing relies heavily on debt. Borrowing lowers current tax distortions; although it raises future distortions, defense investment reduces the probability that costly war states occur. Heightened geopolitical risk therefore calls for larger debt-financed defense spending and delayed taxation compared to financing other types of spending. Results are robust to optimal monetary policy and preemptive-strike incentives.
+<p>
+</details>
+
+* **[Dynamic Relationship Banking and the Equilibrium Cross-Section of Bank Markups](/files/BanksPlatforms.pdf)**. 
+  With [Lukas Schmid](https://sites.google.com/view/lschmidfinanceresearch/), [Alessandro T. Villa](https://www.alessandrotenzinvilla.com/) and [Nicolò Ceneri](https://www.nicoloceneri.com/).
+<details>
+  <summary>Abstract</summary>
+<p>  
+Bank markups have risen substantially, dispersion across banks has increased, and large banks now charge higher markups than smaller institutions. We develop a general equilibrium model in which persistent borrower and depositor relationships endogenously generate heterogeneous bank market power. Banks are dynamic two-sided intermediaries that compete for customers while inheriting partially captive borrower and depositor bases. Relationship capital creates a trade-off between current margins and future franchise value, generating endogenous loan markups and deposit markdowns that vary across banks. Regulatory constraints and costly external equity make market power on one side of the balance sheet affect pricing on the other, linking deposit markdowns and loan markups. Quantitatively, two-sided bank market power has sizable macroeconomic implications, reducing financial intermediation and lowering aggregate output. Policy-rate changes alter franchise values, leading banks with different customer bases to adjust loan and deposit rates differently.
+<p>
+</details>
+
+* **[Housing Illiquidity, Asset Prices, and the Amplification of Macroeconomic Shocks](/files/JMP_manuscript.pdf)**. 
+
+<details>
+  <summary>Abstract</summary>
+<p>  
+How does housing illiquidity affect household risk-aversion and saving behavior? This paper shows that when housing services provide utility, the risk over the relative consumption ratio of nondurables and houses determines household relative risk aversion and drives asset prices. I show in a calibrated heterogeneous-agents model that accounting for the relative consumption risk (i) helps to explain challenging asset pricing facts, such as the countercyclical market price of risk and a stable risk-free rate, (ii) greatly amplifies the business cycle fluctuations, (iii) illuminates the new source of business cycle costs (iv) helps to understand the endogenous variation in uncertainty.
+<p>
+</details>
 
 
 ## Work in Progress
+
+* **Greed versus fear: optimal time-consistent taxation with default**, with [Anastasios Karantounias](https://sites.google.com/site/anastasioskarantounias/home)
+
 
