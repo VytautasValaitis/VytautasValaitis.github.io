@@ -23,11 +23,11 @@ repository               : "VytautasValaitis/VytautasValaitis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Vytautas-valaitis-2021.jpg"
+  avatar           : "images/Vytautas-valaitis-2021.jpg"
   name             : "Vytautas Valaitis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Senior Lecturer, University of Surrey"
+  location         : # not sure
   employer         : "University of Surrey"
   uri              : "https://www.surrey.ac.uk/people/vytautas-valaitis"
   email            : "v.valaitis@surrey.ac.uk" 
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=NZHoEXwAAAAJ&hl=it"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
