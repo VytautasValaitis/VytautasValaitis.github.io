@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 **Appointments**
+======
 * 2025 - present, Senior Lecturer, University of Surrey, School of Social Sciences, Economics
 * 2023 - present, Centre for Macroeconomics, Affiliate
 * 2022 - 2025, Lecturer, University of Surrey, School of Social Sciences, Economics
