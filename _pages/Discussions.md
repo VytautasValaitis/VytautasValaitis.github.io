@@ -1,10 +1,10 @@
 ---
-permalink: /Research/
-title: "Research"
+permalink: /Discussions/
+title: "Discussions"
 author_profile: true
 ---
 
 ## Publications 
 
-* **[Government debt management and inflation with real and nominal bonds](https://www.sciencedirect.com/science/article/pii/S0304405X26000644)**. 
-  With [Lukas Schmid](https://sites.google.com/view/lschmidfinanceresearch/) and [Alessandro T. Villa](https://www.alessandrotenzinvilla.com/).   *Journal of Financial Economics*, 182, August 2026, 104293. [Ungated copy](/files/SchmidValaitisVilla.pdf) | [BibTeX](/files/inflation_bibtex.bib). 
+* **Estimating Nonlinear Heterogeneous Agent Models with Neural Networks**, (by Hanno Kase, Leonardo Melosi and Matthias Rottner), Bank of Spain Annual Research Conference, 2025 
+ [Paper](/files/Discussions/KMR_NeuralNetwork_Hank_final.pdf) | [Slides](/files/Discusssions/discussion_HLMS.pdf). 
