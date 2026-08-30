@@ -20,4 +20,4 @@ redirect_from:
 * M.A. in Economics, Central European University, 2015
 * B.A. in Economics and Politics, ISM University of Management and Economics, 2013
 
-Full [CV](files/CV.pdf) Here
+Full [CV](/files/CV.pdf) Here
