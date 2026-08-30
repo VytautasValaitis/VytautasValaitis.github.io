@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # "https://www.linkedin.com/in/vytautas-valaitis-089a2357/"
+  linkedin         : "https://www.linkedin.com/in/vytautas-valaitis-089a2357/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/VytautasValait2"
+  twitter          : "VytautasValait2"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
