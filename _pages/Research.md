@@ -30,7 +30,7 @@ with sticky prices and a government issuing nominal and real state-uncontingent 
 
 * **[A machine learning projection method for macro-finance models](https://onlinelibrary.wiley.com/doi/full/10.3982/QE1403)**. 
   With [Alessandro T. Villa](https://www.alessandrotenzinvilla.com/). 
-  *Quantitative Economics*, 15(1), January 2024, 145-173. [Ungated copy](/files/QE_paper.pdf) | [BibTeX](/files/QE_paper_cite.bib).
+  *Quantitative Economics*, 15(1), January 2024, 145-173. [Ungated copy](/files/QE_Paper.pdf) | [BibTeX](/files/QE_paper_cite.bibtex).
 
 <details>
   <summary>Abstract</summary>
