@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-** University of Surrey **
+**University of Surrey**
 
 * MRes Research Methods, [Syllabus](/files/Syllabi/Syllabus_ECOM067.pdf), 2022 - 
 
