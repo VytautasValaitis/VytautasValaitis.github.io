@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer, University of Surrey"
   location         : # not sure
-  employer         : "University of Surrey"
+  employer         : # "University of Surrey"
   uri              : "https://www.surrey.ac.uk/people/vytautas-valaitis"
   email            : "v.valaitis@surrey.ac.uk" 
 
