@@ -1,6 +1,6 @@
 ---
 permalink: /Discussions/
-title: "Discussions"
+title: false
 author_profile: true
 ---
 
