@@ -51,6 +51,16 @@ How should optimal policy manage disaster risk? We study an optimal fiscal polic
 </p>
 </details>
 
+* **[Greed versus Fear: Optimal Time-Consistent Taxation with Default](/files/Greed_Fear.pdf)**. 
+With [Anastasios G. Karantounias](https://sites.google.com/site/anastasioskarantounias/home)
+<details>
+  <summary>Abstract</summary>
+<p>  
+This paper studies optimal time-consistent distortionary taxation with default. The government taxes labor income or issues non-contingent debt to finance an exogenous stochastic stream of fiscal shocks. Debt can be repudiated subject to default costs. Optimal policy is characterized by two opposing incentives that capture the double lack of commitment to old tax policies and to repaying debt, respectively: an incentive to postpone taxes by issuing more debt for the future (“Greed”), and an incentive to tax more currently to avoid punishing default premia (“Fear”). A Generalized Euler Equation captures these forces and determines the optimal back-loading or front-loading of tax distortions. Even with small default risk, tax-smoothing and debt issuance are substantially limited when short-term debt is available. The same mechanisms operate in environments
+with long-term debt, but debt serves more as a fiscal absorber.
+</p>
+</details>
+
 * **[Dynamic Relationship Banking and the Equilibrium Cross-Section of Bank Markups](/files/BanksPlatforms.pdf)**. 
   With [Lukas Schmid](https://sites.google.com/view/lschmidfinanceresearch/), [Alessandro T. Villa](https://www.alessandrotenzinvilla.com/) and [Nicolò Ceneri](https://www.nicoloceneri.com/).
 <details>
@@ -68,10 +78,5 @@ Bank markups have risen substantially, dispersion across banks has increased, an
 How does housing illiquidity affect household risk-aversion and saving behavior? This paper shows that when housing services provide utility, the risk over the relative consumption ratio of nondurables and houses determines household relative risk aversion and drives asset prices. I show in a calibrated heterogeneous-agents model that accounting for the relative consumption risk (i) helps to explain challenging asset pricing facts, such as the countercyclical market price of risk and a stable risk-free rate, (ii) greatly amplifies the business cycle fluctuations, (iii) illuminates the new source of business cycle costs (iv) helps to understand the endogenous variation in uncertainty.
 </p>
 </details>
-
-
-## Work in Progress
-
-* **Greed versus fear: optimal time-consistent taxation with default**, with [Anastasios Karantounias](https://sites.google.com/site/anastasioskarantounias/home)
 
 
